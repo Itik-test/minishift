@@ -1,2 +1,2 @@
 ---
-param1: "start --cpus 4 --disk-size 80GB --memory 8GB"
+param1: "start --cpus 2 --disk-size 60GB --memory 10GB"
